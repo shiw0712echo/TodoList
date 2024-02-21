@@ -32,7 +32,6 @@ h2{
 }
 
 .list-container{
-    width: 50%;
     padding: 10px;
     margin: 20px 0px;
     display: inline-flex;
@@ -65,7 +64,7 @@ td{
 
 .inputBox{
     padding: 10px 17px;
-    border: 1px #rgb(15, 15, 88) solid;
+    border: 1px rgb(15, 15, 88) solid;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
